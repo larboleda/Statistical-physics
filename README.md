@@ -1,2 +1,2 @@
-# Statistical-physics
-# Statistical-physics
+# Statistical-physics: harmonic oscilator, assignment1
+
